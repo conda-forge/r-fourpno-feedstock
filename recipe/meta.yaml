@@ -68,6 +68,7 @@ extra:
   recipe-maintainers:
     - conda-forge/r
     - coatless
+    - steveculpepper
 
 # Package: fourPNO
 # Type: Package
